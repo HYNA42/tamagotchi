@@ -1,9 +1,9 @@
 # Tamastudi
-
+![alt text](tama1.png)
 ## Description
 
 Ce projet est une révision pratique sur la manipulation du DOM en JavaScript, réalisée sous forme de TP en classe. Le but du projet est de créer une version simplifiée d'un Tamagotchi nommé "Tamastudi", où l'utilisateur doit prendre soin de son personnage en répondant à ses besoins.
-
+![alt text](tama2.png)
 ## Fonctionnalités
 
 - **Initialisation du Tamastudi**: L'utilisateur clique sur un bouton central pour "éclore" le Tamastudi et lui donner un nom.
